@@ -1,4 +1,4 @@
-// test for cicd
+// test for cicd 1
 import Vue from 'vue'
 
 import 'normalize.css/normalize.css'// A modern alternative to CSS resets
