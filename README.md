@@ -8,7 +8,9 @@ The project is the front-end part of the front-end separation project, and the b
 
 ### Presentation
 
-![后台管理系统功能演示](http://img.macrozheng.com/mall/project/mall_admin_show.png)
+
+![image](https://github.com/Georgezxh/Mall-admin-web/assets/50438846/8f423e45-cb37-405d-8482-7e3afd97796b)
+
 
 ### 技术选型
 
