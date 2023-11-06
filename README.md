@@ -1,6 +1,6 @@
 ## Preface
 
-The project is the front-end part of the front-end separation project, and the back-end project mall address(https://github.com/macrozheng/mall) 
+The project is the front-end part of the front-end separation project, and the back-end project mall address([https://github.com/Georgezxh/Micro-Service-E-commerce-System](https://github.com/Georgezxh/Micro-Service-E-commerce-System)) 
 
 ## Introduction
 
