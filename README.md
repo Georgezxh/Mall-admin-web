@@ -1,14 +1,12 @@
-## 前言
+## Preface
 
 The project is the front-end part of the front-end separation project, and the back-end project mall address(https://github.com/macrozheng/mall) 
 
-## 项目介绍
+## Introduction
 
-`mall-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+'mall-admin-web' is a front-end project of the back-end management system of e-commerce, based on Vue+Element implementation. It mainly includes commodity management, order management, member management, promotion management, operation management, content management, statistical reports, financial management, rights management, setting and other functions.
 
-### 项目演示
-
-项目在线演示地址：[https://www.macrozheng.com/admin/](https://www.macrozheng.com/admin/)
+### Presentation
 
 ![后台管理系统功能演示](http://img.macrozheng.com/mall/project/mall_admin_show.png)
 
